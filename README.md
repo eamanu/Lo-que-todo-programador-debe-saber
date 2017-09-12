@@ -1,4 +1,4 @@
-# Every Programmer Should Know :thinking:
+# Lo que todo programador debe saber :thinking:
 Es una colección de las cosas técnicas que todo desarrollador de software debería saber. 
 
 :point_up: *Hay recursos que yo puedo recomendar para todo programador independientemente de su nivel de habilidad y
