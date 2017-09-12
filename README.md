@@ -58,6 +58,7 @@ Pero, conocer estas cosas te ayudarán a ser mejor! :muscle:*
 
 ### RegExp
 - [RegexHQ](https://github.com/regexhq)
+- [Aprender Regex de una manera sencilla](https://github.com/zeeshanu/learn-regex/blob/master/README-es.md)
 
 ### Seguridad
 - :book: [Seguridad en la programación](https://www.dwheeler.com/secure-programs/)
